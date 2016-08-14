@@ -7,4 +7,7 @@ publish a dist folder.
 - When I installed my newly created bower package in a new folder all the files got installed even the source files.
 This is not what I wanted.
 - I added the files and folders I did not want to be copied to the ignore section in bower.json. That helped.
+- At first when I updated my registered packages I only registered them again with the same command that I used
+the first time. I got a message telling me I had a "duplicate package". I did not even have a version in the bower.json
+to start with. I added a version number but I stilled got the duplicate message.
  
