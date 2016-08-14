@@ -1,5 +1,6 @@
 {
   "name": "mini_bower",
+  "version": "1.0.1",
   "description": "Creating my own bower package",
   "main": [
     "dist/mini_bower.js"

@@ -6,4 +6,5 @@ publish a dist folder.
 - I published my package using "bower register axelsbowerpaket https://github.com/Edminsson/mini_bower.git"
 - When I installed my newly created bower package in a new folder all the files got installed even the source files.
 This is not what I wanted.
+- I added the files and folders I did not want to be copied to the ignore section in bower.json. That helped.
  
